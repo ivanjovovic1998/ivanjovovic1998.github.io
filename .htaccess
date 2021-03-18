@@ -1,4 +1,0 @@
-RewriteEngine on  
-  
-RewriteRule ^en index.html [NC,L]
-RewriteRule ^cg  index2.html [NC,L]
